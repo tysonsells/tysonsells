@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyson Sells</h1>
-<h3 align="center">A Student at the University of Colorado, Boulder</h3>
+<h3 align="center">Student at the University of Colorado, Boulder</h3>
 
 - 🌱 I’m currently learning **C**
 
